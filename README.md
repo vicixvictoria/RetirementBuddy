@@ -5,4 +5,5 @@ Full FIGMA Project: https://www.figma.com/design/lXTb4f3ROsixdXU7bMAjKE/Master-P
 This protoype depicts features of a possible mobile app to support people during their transition into retirement. It was designed in the course of my master thesis "Modeling and designing features of a mobile application for healthy aging while transitioning into retirement" and used especially for qualitative research interviews with potential end users. The mockup and prototype came together in two iterations of design and interveiws. With the link you can view the final solution of the interactive prototype. It brought insights into user comprehension, usefulness, usability and design decisions.
 
 
-![Master-Project Final-white](https://github.com/user-attachments/assets/98eb3f97-01c1-4550-9720-b3db16d45f49)
+![Master-Project-finalMockup](https://github.com/user-attachments/assets/c4cdeb53-fac5-42a9-a26f-76df7b5f1c5f)
+
