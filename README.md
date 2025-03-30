@@ -21,6 +21,6 @@ This thesis laid the groundwork for a mobile app supporting healthy aging during
 ## Mockup Overview
 The mockup and prototype came together in two iterations of design and interveiws. With the link in the first paragrpah you can view the final solution of the interactive prototype. It brought insights into user comprehension, usefulness, usability and design decisions.
 
-Here an image of the full design mockup:
+Here it shows an overview mockup of the full design prototype:
 ![Master-Project-finalMockup](https://github.com/user-attachments/assets/c4cdeb53-fac5-42a9-a26f-76df7b5f1c5f)
 
