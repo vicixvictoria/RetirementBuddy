@@ -1,7 +1,7 @@
 # RetirementBuddy - Interactive Prototype  
 Interactive prototype of a mobile app from the Master Thesis **"Modeling and designing features of a mobile application for healthy aging while transitioning into retirement"**
 
-Figma Project and prototype: https://www.figma.com/design/lXTb4f3ROsixdXU7bMAjKE/Master-Project-IT2-Interactive?node-id=0-1&t=LWDRuJ84DXclUwSy-1 
+Figma Project and prototype: https://www.figma.com/proto/lXTb4f3ROsixdXU7bMAjKE/Master-Project-IT2-Interactive?page-id=0%3A1&node-id=19-1192&p=f&viewport=264%2C78%2C0.12&t=xFnbab5fdNcLUb9u-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=19%3A1192&show-proto-sidebar=1 
 
 *This protoype depicts features of a possible mobile app to support people during their transition into retirement. It was designed in the course of my master thesis "Modeling and designing features of a mobile application for healthy aging while transitioning into retirement" and used especially for qualitative research interviews with potential end users.* 
 
